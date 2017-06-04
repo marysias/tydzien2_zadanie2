@@ -1,0 +1,1 @@
+tydzien2_zadanie2
