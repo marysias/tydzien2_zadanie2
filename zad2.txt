@@ -1,0 +1,13 @@
+var hasGridClass = $("div.grid.grid-12");
+
+var insideNavClass = $(".nav a[href^='http']");
+
+var typeRadio = $("input[type=radio]:not(:checked), input[type=checkbox]:not(:checked)");
+
+var paragraphs = $("#text p:empty:first");
+
+var paginationItemClass = $(".paginationItem:not(span)");
+
+//funkcja do testow
+
+console.log('elementow: '+paginationItemClass.length);
